@@ -1,0 +1,12 @@
+dependencies:
+  - python=3
+  - pip:
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - spacy
+    - random
+    - pythonds
+    - scikit-learn
+    
