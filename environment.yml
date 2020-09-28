@@ -6,7 +6,6 @@ dependencies:
     - pandas
     - matplotlib
     - spacy
-    - random
     - pythonds
     - scikit-learn
     
